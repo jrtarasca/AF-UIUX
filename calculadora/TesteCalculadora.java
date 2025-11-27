@@ -34,7 +34,7 @@ public class TesteCalculadora {
      * Método principal que executa os testes da classe {@code Calculadora}.
      * </p>
      *
-     * @param args argumentos de linha de comando (não utilizados neste teste)
+     * @param args argumentos de linha de comando 
      */
     public static void main(String[] args) {
         Calculadora calc = new Calculadora();
